@@ -35,4 +35,5 @@ button {
     margin-top: 12px;
     width: cal(100% - 1px);
     padding: 8px;
+    cursor: pointer;
 }
