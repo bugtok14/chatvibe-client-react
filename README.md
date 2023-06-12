@@ -26,7 +26,7 @@ This allows you to connect to different chat-servers in local vs staging vs prod
 Replace the UUID below with your own. In `.env` write:
 
 ```
-REACT_APP_CHAT_ENGINE_PROJECT_ID=5d498a31-cd23-42b7-b367-4fcc9463bd2f
+REACT_APP_CHAT_ENGINE_PROJECT_ID=5d498a31-cd23-42b7-b367-4fcc9463bd2
 ```
 
 ### 3 - Install & Start
