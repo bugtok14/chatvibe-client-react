@@ -1,7 +1,6 @@
-import { useState } from "react";
-
-import AuthPage from "./authPage";
-import ChatsPage from "./chatsPage";
+import { useState } from 'react';
+import AuthPage from './authPage';
+import ChatsPage from './chatsPage';
 
 function App() {
   const [user, setUser] = useState();
@@ -14,3 +13,4 @@ function App() {
 }
 
 export default App;
+

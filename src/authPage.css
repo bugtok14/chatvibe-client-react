@@ -3,8 +3,7 @@
     height: 100vh;
     padding-top: 6vw;
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 39%, rgba(0,211,255,1) 100%);
-    
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(176,176,208,1) 83%, rgba(255,255,255,1) 100%);
 }
 
 .card {
@@ -36,4 +35,9 @@ button {
     width: cal(100% - 1px);
     padding: 8px;
     cursor: pointer;  
+}
+
+.footer{
+    text-align: center;
+    margin-top:100px;
 }
